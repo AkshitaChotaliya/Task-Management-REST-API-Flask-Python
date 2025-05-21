@@ -17,7 +17,7 @@ This project is a RESTful API built using **Flask**, **SQLAlchemy**, and **Postg
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/AkshitaChotaliya/Task-Management-REST-API-Flask-Python.git>
 cd <your-repo-folder>
 ```
 
